@@ -1,8 +1,8 @@
 <h1 align="center">Project Achievement Shelf</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/6_projects-unlocked-111827?style=for-the-badge&labelColor=2563eb" alt="6 projects unlocked">
-  <img src="https://img.shields.io/badge/3_public-open-111827?style=for-the-badge&labelColor=16a34a" alt="3 public projects">
+  <img src="https://img.shields.io/badge/7_projects-unlocked-111827?style=for-the-badge&labelColor=2563eb" alt="7 projects unlocked">
+  <img src="https://img.shields.io/badge/4_public-open-111827?style=for-the-badge&labelColor=16a34a" alt="4 public projects">
   <img src="https://img.shields.io/badge/3_private-locked-111827?style=for-the-badge&labelColor=7c3aed" alt="3 private projects">
 </p>
 
@@ -13,6 +13,27 @@
 ## Featured Projects
 
 <table>
+  <tr>
+    <td colspan="2">
+      <h3>&#127941; <a href="https://github.com/schmurko177/ai-algorithms-lab-portfolio">AI Algorithms Lab Portfolio</a></h3>
+      <p>
+        <a href="https://github.com/schmurko177/ai-algorithms-lab-portfolio">
+          <img src="https://img.shields.io/badge/PUBLIC-open-111827?style=for-the-badge&labelColor=16a34a" alt="Public">
+        </a>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/AI_algorithms-coursework-111827?style=for-the-badge&labelColor=2563eb" alt="AI algorithms coursework">
+      </p>
+      <p>Polished AI lab portfolio with graph search, propositional logic resolution, ID3 decision trees, and a neural network trained with a genetic algorithm.</p>
+      <details>
+        <summary><b>Open details</b></summary>
+        <br>
+        <b>Goal:</b> present core AI and machine learning lab work as a clean, runnable GitHub portfolio project.<br>
+        <b>Languages:</b> Python, CSV examples, Markdown documentation.<br>
+        <b>Access:</b> public repository.<br>
+        <b>Highlight:</b> four documented labs, example inputs, runnable commands, and sanitized archive cleanup.
+      </details>
+    </td>
+  </tr>
   <tr>
     <td width="50%">
       <h3>&#127941; <a href="https://github.com/schmurko177/payments-progress-comparison-task">Payments Progress Dashboard</a></h3>
