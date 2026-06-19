@@ -15,7 +15,7 @@
 <table>
   <tr>
     <td width="50%">
-      <h3>&#127941; Payments Progress Dashboard</h3>
+      <h3>&#127941; <a href="https://github.com/schmurko177/payments-progress-comparison-task">Payments Progress Dashboard</a></h3>
       <p>
         <a href="https://github.com/schmurko177/payments-progress-comparison-task">
           <img src="https://img.shields.io/badge/PRIVATE-locked-111827?style=for-the-badge&labelColor=7c3aed" alt="Private">
@@ -23,9 +23,17 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
       </p>
       <p>Sanitized payment-progress dashboard with forecasting logic, synthetic demo data, and Git-safe project cleanup.</p>
+      <details>
+        <summary><b>Open details</b></summary>
+        <br>
+        <b>Goal:</b> compare payment progress, forecast month-end results, and prepare business data safely for Git.<br>
+        <b>Languages:</b> Python, HTML, CSS, JavaScript.<br>
+        <b>Access:</b> private repository; visible only to approved collaborators.<br>
+        <b>Highlight:</b> sanitized demo data, static dashboard export, and cleaned Git history.
+      </details>
     </td>
     <td width="50%">
-      <h3>&#127941; Volatility Framework</h3>
+      <h3>&#127941; <a href="https://github.com/schmurko177/volatility_framework">Volatility Framework</a></h3>
       <p>
         <a href="https://github.com/schmurko177/volatility_framework">
           <img src="https://img.shields.io/badge/PUBLIC-open-111827?style=for-the-badge&labelColor=16a34a" alt="Public">
@@ -33,11 +41,19 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
       </p>
       <p>Python framework for cleaner volatility analysis workflows and reusable quantitative experiments.</p>
+      <details>
+        <summary><b>Open details</b></summary>
+        <br>
+        <b>Goal:</b> make volatility analysis workflows more reusable and easier to experiment with.<br>
+        <b>Languages:</b> Python.<br>
+        <b>Access:</b> public repository.<br>
+        <b>Highlight:</b> reusable quantitative tooling and personal framework design.
+      </details>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>&#127941; WebTech Projects</h3>
+      <h3>&#127941; <a href="https://github.com/schmurko177/webtech-projects">WebTech Projects</a></h3>
       <p>
         <a href="https://github.com/schmurko177/webtech-projects">
           <img src="https://img.shields.io/badge/PUBLIC-open-111827?style=for-the-badge&labelColor=16a34a" alt="Public">
@@ -46,9 +62,17 @@
         <img src="https://img.shields.io/badge/1_star-earned-111827?style=for-the-badge&labelColor=f59e0b" alt="1 star">
       </p>
       <p>Collection of practical web technology projects built around PHP and server-side web development.</p>
+      <details>
+        <summary><b>Open details</b></summary>
+        <br>
+        <b>Goal:</b> practice and present web technology exercises in one project collection.<br>
+        <b>Languages:</b> PHP, HTML, CSS, JavaScript.<br>
+        <b>Access:</b> public repository.<br>
+        <b>Highlight:</b> server-side scripting practice and multiple smaller web implementations.
+      </details>
     </td>
     <td width="50%">
-      <h3>&#127941; KUIT IT Instruction</h3>
+      <h3>&#127941; <a href="https://github.com/schmurko177/kuit-it-instruction">KUIT IT Instruction</a></h3>
       <p>
         <a href="https://github.com/schmurko177/kuit-it-instruction">
           <img src="https://img.shields.io/badge/PUBLIC-open-111827?style=for-the-badge&labelColor=16a34a" alt="Public">
@@ -56,11 +80,19 @@
         <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
       </p>
       <p>Instruction-style HTML project for presenting IT learning material in a simple web format.</p>
+      <details>
+        <summary><b>Open details</b></summary>
+        <br>
+        <b>Goal:</b> present IT instruction content in a simple static web page format.<br>
+        <b>Languages:</b> HTML, CSS.<br>
+        <b>Access:</b> public repository.<br>
+        <b>Highlight:</b> clean instructional content and lightweight page structure.
+      </details>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>&#127941; Bachelor Thesis Workspace</h3>
+      <h3>&#127941; <a href="https://github.com/schmurko177/bach-thesis">Bachelor Thesis Workspace</a></h3>
       <p>
         <a href="https://github.com/schmurko177/bach-thesis">
           <img src="https://img.shields.io/badge/PRIVATE-locked-111827?style=for-the-badge&labelColor=7c3aed" alt="Private">
@@ -68,9 +100,17 @@
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook">
       </p>
       <p>Research notebook workspace for thesis experiments, calculations, and structured analysis.</p>
+      <details>
+        <summary><b>Open details</b></summary>
+        <br>
+        <b>Goal:</b> organize thesis research, experiments, calculations, and analysis notebooks.<br>
+        <b>Languages:</b> Jupyter Notebook, Python.<br>
+        <b>Access:</b> private repository; visible only to approved collaborators.<br>
+        <b>Highlight:</b> research workflow, notebook-based analysis, and academic project structure.
+      </details>
     </td>
     <td width="50%">
-      <h3>&#127941; Bogatyr Game</h3>
+      <h3>&#127941; <a href="https://github.com/schmurko177/bogatyr-game">Bogatyr Game</a></h3>
       <p>
         <a href="https://github.com/schmurko177/bogatyr-game">
           <img src="https://img.shields.io/badge/PRIVATE-locked-111827?style=for-the-badge&labelColor=7c3aed" alt="Private">
@@ -78,6 +118,14 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript">
       </p>
       <p>Browser game project for interactive JavaScript gameplay experiments.</p>
+      <details>
+        <summary><b>Open details</b></summary>
+        <br>
+        <b>Goal:</b> build and experiment with browser-based interactive gameplay.<br>
+        <b>Languages:</b> JavaScript, HTML, CSS.<br>
+        <b>Access:</b> private repository; visible only to approved collaborators.<br>
+        <b>Highlight:</b> front-end interaction, game logic, and creative coding.
+      </details>
     </td>
   </tr>
 </table>
