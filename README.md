@@ -1,5 +1,11 @@
 <h1 align="center">Project Achievement Shelf</h1>
 
+<p align="center"><b>Python | Data workflows | Payment analytics | Web systems | ML experiments</b></p>
+
+<p align="center">
+  Practical projects around data cleaning, forecasting, dashboards, APIs, testing, and algorithmic experiments.
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/9_projects-unlocked-111827?style=for-the-badge&labelColor=2563eb" alt="9 projects unlocked">
   <img src="https://img.shields.io/badge/6_public-open-111827?style=for-the-badge&labelColor=16a34a" alt="6 public projects">
