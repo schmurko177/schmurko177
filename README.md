@@ -1,8 +1,8 @@
 <h1 align="center">Project Achievement Shelf</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/7_projects-unlocked-111827?style=for-the-badge&labelColor=2563eb" alt="7 projects unlocked">
-  <img src="https://img.shields.io/badge/4_public-open-111827?style=for-the-badge&labelColor=16a34a" alt="4 public projects">
+  <img src="https://img.shields.io/badge/8_projects-unlocked-111827?style=for-the-badge&labelColor=2563eb" alt="8 projects unlocked">
+  <img src="https://img.shields.io/badge/5_public-open-111827?style=for-the-badge&labelColor=16a34a" alt="5 public projects">
   <img src="https://img.shields.io/badge/3_private-locked-111827?style=for-the-badge&labelColor=7c3aed" alt="3 private projects">
 </p>
 
@@ -14,7 +14,7 @@
 
 <table>
   <tr>
-    <td colspan="2">
+    <td width="50%">
       <h3>&#127941; <a href="https://github.com/schmurko177/ai-algorithms-lab-portfolio">AI Algorithms Lab Portfolio</a></h3>
       <p>
         <a href="https://github.com/schmurko177/ai-algorithms-lab-portfolio">
@@ -31,6 +31,25 @@
         <b>Languages:</b> Python, CSV examples, Markdown documentation.<br>
         <b>Access:</b> public repository.<br>
         <b>Highlight:</b> four documented labs, example inputs, runnable commands, and sanitized archive cleanup.
+      </details>
+    </td>
+    <td width="50%">
+      <h3>&#127941; <a href="https://github.com/schmurko177/nomad-system-design">Nomad System Design</a></h3>
+      <p>
+        <a href="https://github.com/schmurko177/nomad-system-design">
+          <img src="https://img.shields.io/badge/PUBLIC-open-111827?style=for-the-badge&labelColor=16a34a" alt="Public">
+        </a>
+        <img src="https://img.shields.io/badge/UML-system_design-111827?style=for-the-badge&labelColor=0ea5e9" alt="UML system design">
+        <img src="https://img.shields.io/badge/PDF-documentation-111827?style=for-the-badge&labelColor=dc2626" alt="PDF documentation">
+      </p>
+      <p>Sanitized system-analysis case study for a car-rental platform with UML diagrams, acceptance tests, and project planning artifacts.</p>
+      <details>
+        <summary><b>Open details</b></summary>
+        <br>
+        <b>Goal:</b> present requirements analysis and UML documentation for a realistic car-rental management system.<br>
+        <b>Languages:</b> Markdown, UML, PDF documentation.<br>
+        <b>Access:</b> public repository.<br>
+        <b>Highlight:</b> use-case, class, activity, sequence, state, acceptance-test, Gantt, and network diagrams in a portfolio-safe format.
       </details>
     </td>
   </tr>
