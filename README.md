@@ -82,14 +82,14 @@
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
         <img src="https://img.shields.io/badge/1_star-earned-111827?style=for-the-badge&labelColor=f59e0b" alt="1 star">
       </p>
-      <p>Collection of practical web technology projects built around PHP and server-side web development.</p>
+      <p>Full WebTech collection with a PHP database site, REST API extension, and real-time WebSocket game.</p>
       <details>
         <summary><b>Open details</b></summary>
         <br>
-        <b>Goal:</b> practice and present web technology exercises in one project collection.<br>
-        <b>Languages:</b> PHP, HTML, CSS, JavaScript.<br>
+        <b>Goal:</b> present a three-part web development sequence: database-backed PHP app, protected REST API, and browser multiplayer game.<br>
+        <b>Languages:</b> PHP, JavaScript, HTML, CSS, SQL.<br>
         <b>Access:</b> public repository.<br>
-        <b>Highlight:</b> server-side scripting practice and multiple smaller web implementations.
+        <b>Highlight:</b> authentication, Google OAuth, 2FA, MariaDB schema work, JWT API flows, and WebSocket real-time gameplay.
       </details>
     </td>
     <td width="50%">
