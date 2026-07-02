@@ -37,7 +37,7 @@
         <b>Goal:</b> monitor collection progress, estimate expected month-end results, and prepare management-ready reporting from payment data.<br>
         <b>Languages:</b> Python, HTML, CSS, JavaScript.<br>
         <b>Access:</b> private repository; visible only to approved collaborators.<br>
-        <b>Highlight:</b> forecasting and backtesting logic, multi-country dashboard views, operational exports, update tooling, data validation checks, and an AI assistant that answers project-specific dashboard questions.
+        <b>Highlight:</b> forecasting and backtesting logic, multi-country dashboard views, automated Python workflows for data refresh and dashboard rebuilds, operational exports, validation checks, and an AI assistant that answers project-specific dashboard questions.
       </details>
     </td>
   </tr>
