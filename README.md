@@ -21,22 +21,23 @@
 <table>
   <tr>
     <td colspan="2">
-      <h3>&#127942; 1. <a href="https://github.com/schmurko177/payments-progress-comparison-task">Payments Progress Dashboard</a></h3>
+      <h3>&#127942; 1. <a href="https://github.com/schmurko177/payments-progress-comparison-task">Payments Progress Dashboard with AI Assistant</a></h3>
       <p>
         <a href="https://github.com/schmurko177/payments-progress-comparison-task">
           <img src="https://img.shields.io/badge/PRIVATE-locked-111827?style=for-the-badge&labelColor=7c3aed" alt="Private">
         </a>
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
         <img src="https://img.shields.io/badge/forecasting-dashboard-111827?style=for-the-badge&labelColor=2563eb" alt="Forecasting dashboard">
+        <img src="https://img.shields.io/badge/AI_assistant-knowledge_layer-111827?style=for-the-badge&labelColor=7c3aed" alt="AI assistant">
       </p>
-      <p>Sanitized work-style analytics project for comparing payment progress, forecasting month-end results, and presenting synthetic demo data safely.</p>
+      <p>Sanitized internal analytics pilot for comparing payment progress, forecasting month-end collections, exporting operational views, and explaining dashboard results with an AI-assisted knowledge layer.</p>
       <details>
         <summary><b>Open details</b></summary>
         <br>
-        <b>Goal:</b> compare payment progress, estimate expected final results, and prepare business reporting safely for Git.<br>
+        <b>Goal:</b> monitor collection progress, estimate expected month-end results, and prepare management-ready reporting from payment data.<br>
         <b>Languages:</b> Python, HTML, CSS, JavaScript.<br>
         <b>Access:</b> private repository; visible only to approved collaborators.<br>
-        <b>Highlight:</b> forecasting logic, cleaned data surface, synthetic demo dataset, static dashboard export, and Git-safe project cleanup.
+        <b>Highlight:</b> forecasting and backtesting logic, multi-country dashboard views, operational exports, update tooling, data validation checks, and an AI assistant that answers project-specific dashboard questions.
       </details>
     </td>
   </tr>
