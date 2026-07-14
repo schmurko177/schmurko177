@@ -1,15 +1,15 @@
 <h1 align="center">Project Achievement Shelf</h1>
 
-<p align="center"><b>Python | Data workflows | Payment analytics | Web systems | ML experiments</b></p>
+<p align="center"><b>Python | Data workflows | Payment analytics | Automation systems | Web systems | ML experiments</b></p>
 
 <p align="center">
   Practical projects around data cleaning, forecasting, dashboards, APIs, testing, and algorithmic experiments.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/9_projects-unlocked-111827?style=for-the-badge&labelColor=2563eb" alt="9 projects unlocked">
+  <img src="https://img.shields.io/badge/10_projects-unlocked-111827?style=for-the-badge&labelColor=2563eb" alt="10 projects unlocked">
   <img src="https://img.shields.io/badge/6_public-open-111827?style=for-the-badge&labelColor=16a34a" alt="6 public projects">
-  <img src="https://img.shields.io/badge/3_private-locked-111827?style=for-the-badge&labelColor=7c3aed" alt="3 private projects">
+  <img src="https://img.shields.io/badge/4_private-locked-111827?style=for-the-badge&labelColor=7c3aed" alt="4 private projects">
 </p>
 
 <p align="center">
@@ -42,8 +42,28 @@
     </td>
   </tr>
   <tr>
+    <td colspan="2">
+      <h3>&#129351; 2. Payment Import Automation for Telecom Files</h3>
+      <p>
+        <img src="https://img.shields.io/badge/PRIVATE-locked-111827?style=for-the-badge&labelColor=7c3aed" alt="Private">
+        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
+        <img src="https://img.shields.io/badge/SQL_Server-production_import-111827?style=for-the-badge&labelColor=2563eb" alt="SQL Server production import">
+        <img src="https://img.shields.io/badge/XML-validation_pipeline-111827?style=for-the-badge&labelColor=0ea5e9" alt="XML validation pipeline">
+      </p>
+      <p>Sanitized production-style Windows automation for scheduled payment-file ingestion, XML validation and normalization, encrypted SQL credential handling, stored-procedure imports, operational logging, and failed-row reporting.</p>
+      <details>
+        <summary><b>Open details</b></summary>
+        <br>
+        <b>Goal:</b> replace manual payment-file handling with a controlled import pipeline that validates incoming XML files, normalizes payment records, runs scheduled database imports, and produces recoverable operational reports without exposing internal data.<br>
+        <b>Languages:</b> PowerShell, Windows CMD, T-SQL, XML, HTML, CSS, JavaScript.<br>
+        <b>Access:</b> private/internal project; code and data are not published because the workflow is connected to production infrastructure and payment-processing operations.<br>
+        <b>Highlight:</b> Windows Task Scheduler orchestration, DPAPI-encrypted SQL credential flow, read-only validator mode, XML normalization, SQL stored procedure integration, processed/error folder routing, failed-row CSV reporting, runbook documentation, and an interactive system-flow map.
+      </details>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
-      <h3>&#129351; 2. <a href="https://github.com/schmurko177/volatility_framework">Volatility Framework</a></h3>
+      <h3>&#129352; 3. <a href="https://github.com/schmurko177/volatility_framework">Volatility Framework</a></h3>
       <p>
         <a href="https://github.com/schmurko177/volatility_framework">
           <img src="https://img.shields.io/badge/PUBLIC-open-111827?style=for-the-badge&labelColor=16a34a" alt="Public">
@@ -61,7 +81,7 @@
       </details>
     </td>
     <td width="50%">
-      <h3>&#129352; 3. <a href="https://github.com/schmurko177/bach-thesis">Bachelor Thesis Workspace</a></h3>
+      <h3>&#127941; 4. <a href="https://github.com/schmurko177/bach-thesis">Bachelor Thesis Workspace</a></h3>
       <p>
         <a href="https://github.com/schmurko177/bach-thesis">
           <img src="https://img.shields.io/badge/PRIVATE-locked-111827?style=for-the-badge&labelColor=7c3aed" alt="Private">
@@ -81,7 +101,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>&#127941; 4. <a href="https://github.com/schmurko177/webtech-projects">WebTech Projects</a></h3>
+      <h3>&#127941; 5. <a href="https://github.com/schmurko177/webtech-projects">WebTech Projects</a></h3>
       <p>
         <a href="https://github.com/schmurko177/webtech-projects">
           <img src="https://img.shields.io/badge/PUBLIC-open-111827?style=for-the-badge&labelColor=16a34a" alt="Public">
@@ -100,7 +120,7 @@
       </details>
     </td>
     <td width="50%">
-      <h3>&#127941; 5. <a href="https://github.com/schmurko177/ai-algorithms-lab-portfolio">AI Algorithms Lab Portfolio</a></h3>
+      <h3>&#127941; 6. <a href="https://github.com/schmurko177/ai-algorithms-lab-portfolio">AI Algorithms Lab Portfolio</a></h3>
       <p>
         <a href="https://github.com/schmurko177/ai-algorithms-lab-portfolio">
           <img src="https://img.shields.io/badge/PUBLIC-open-111827?style=for-the-badge&labelColor=16a34a" alt="Public">
@@ -121,7 +141,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>&#127941; 6. <a href="https://github.com/schmurko177/ai-assisted-junit-testing">AI-Assisted JUnit Testing</a></h3>
+      <h3>&#127941; 7. <a href="https://github.com/schmurko177/ai-assisted-junit-testing">AI-Assisted JUnit Testing</a></h3>
       <p>
         <a href="https://github.com/schmurko177/ai-assisted-junit-testing">
           <img src="https://img.shields.io/badge/PUBLIC-open-111827?style=for-the-badge&labelColor=16a34a" alt="Public">
@@ -140,7 +160,7 @@
       </details>
     </td>
     <td width="50%">
-      <h3>&#127941; 7. <a href="https://github.com/schmurko177/nomad-system-design">Nomad System Design</a></h3>
+      <h3>&#127941; 8. <a href="https://github.com/schmurko177/nomad-system-design">Nomad System Design</a></h3>
       <p>
         <a href="https://github.com/schmurko177/nomad-system-design">
           <img src="https://img.shields.io/badge/PUBLIC-open-111827?style=for-the-badge&labelColor=16a34a" alt="Public">
@@ -161,7 +181,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>&#127941; 8. <a href="https://github.com/schmurko177/bogatyr-game">Bogatyr Game</a></h3>
+      <h3>&#127941; 9. <a href="https://github.com/schmurko177/bogatyr-game">Bogatyr Game</a></h3>
       <p>
         <a href="https://github.com/schmurko177/bogatyr-game">
           <img src="https://img.shields.io/badge/PRIVATE-locked-111827?style=for-the-badge&labelColor=7c3aed" alt="Private">
@@ -179,7 +199,7 @@
       </details>
     </td>
     <td width="50%">
-      <h3>&#127941; 9. <a href="https://github.com/schmurko177/kuit-it-instruction">KUIT IT Instruction</a></h3>
+      <h3>&#127941; 10. <a href="https://github.com/schmurko177/kuit-it-instruction">KUIT IT Instruction</a></h3>
       <p>
         <a href="https://github.com/schmurko177/kuit-it-instruction">
           <img src="https://img.shields.io/badge/PUBLIC-open-111827?style=for-the-badge&labelColor=16a34a" alt="Public">
@@ -203,9 +223,11 @@
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
