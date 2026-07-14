@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/10_projects-unlocked-111827?style=for-the-badge&labelColor=2563eb" alt="10 projects unlocked">
+  <img src="https://img.shields.io/badge/11_projects-unlocked-111827?style=for-the-badge&labelColor=2563eb" alt="11 projects unlocked">
   <img src="https://img.shields.io/badge/6_public-open-111827?style=for-the-badge&labelColor=16a34a" alt="6 public projects">
-  <img src="https://img.shields.io/badge/4_private-locked-111827?style=for-the-badge&labelColor=7c3aed" alt="4 private projects">
+  <img src="https://img.shields.io/badge/5_private-locked-111827?style=for-the-badge&labelColor=7c3aed" alt="5 private projects">
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 <table>
   <tr>
     <td colspan="2">
-      <h3>&#127942; 1. <a href="https://github.com/schmurko177/payments-progress-comparison-task">Payments Progress Dashboard with AI Assistant</a></h3>
+      <h3>&#129351; 1. <a href="https://github.com/schmurko177/payments-progress-comparison-task">Payments Progress Dashboard with AI Assistant</a></h3>
       <p>
         <a href="https://github.com/schmurko177/payments-progress-comparison-task">
           <img src="https://img.shields.io/badge/PRIVATE-locked-111827?style=for-the-badge&labelColor=7c3aed" alt="Private">
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td colspan="2">
-      <h3>&#129351; 2. Payment Import Automation for Telecom Files</h3>
+      <h3>&#129352; 2. Payment Import Automation for Telecom Files</h3>
       <p>
         <img src="https://img.shields.io/badge/PRIVATE-locked-111827?style=for-the-badge&labelColor=7c3aed" alt="Private">
         <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
@@ -62,8 +62,28 @@
     </td>
   </tr>
   <tr>
+    <td colspan="2">
+      <h3>&#129353; 3. Enterprise AI Model Evaluation & Adoption Research</h3>
+      <p>
+        <img src="https://img.shields.io/badge/PRIVATE-locked-111827?style=for-the-badge&labelColor=7c3aed" alt="Private">
+        <img src="https://img.shields.io/badge/AI_evaluation-research_framework-111827?style=for-the-badge&labelColor=7c3aed" alt="AI evaluation research framework">
+        <img src="https://img.shields.io/badge/security_%26_privacy-governance-111827?style=for-the-badge&labelColor=dc2626" alt="Security and privacy governance">
+        <img src="https://img.shields.io/badge/workflow_analysis-enterprise_fit-111827?style=for-the-badge&labelColor=2563eb" alt="Workflow analysis and enterprise fit">
+      </p>
+      <p>Research framework for comparing AI tools and models for corporate use across security, data privacy, cost, integration fit, output quality, governance, and practical employee workflows.</p>
+      <details>
+        <summary><b>Open details</b></summary>
+        <br>
+        <b>Goal:</b> support business AI adoption decisions with a structured evaluation model instead of choosing tools by hype or generic benchmarks.<br>
+        <b>Languages:</b> Markdown, spreadsheets, research notes, AI-assisted analysis workflows.<br>
+        <b>Access:</b> private/internal research; public profile contains only a sanitized project summary.<br>
+        <b>Highlight:</b> model and tool comparison, enterprise risk assessment, data-handling constraints, cost and licensing review, employee workflow mapping, governance criteria, and recommendation-ready documentation.
+      </details>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
-      <h3>&#129352; 3. <a href="https://github.com/schmurko177/volatility_framework">Volatility Framework</a></h3>
+      <h3>&#127941; 4. <a href="https://github.com/schmurko177/volatility_framework">Volatility Framework</a></h3>
       <p>
         <a href="https://github.com/schmurko177/volatility_framework">
           <img src="https://img.shields.io/badge/PUBLIC-open-111827?style=for-the-badge&labelColor=16a34a" alt="Public">
@@ -81,7 +101,7 @@
       </details>
     </td>
     <td width="50%">
-      <h3>&#127941; 4. <a href="https://github.com/schmurko177/bach-thesis">Bachelor Thesis Workspace</a></h3>
+      <h3>&#127941; 5. <a href="https://github.com/schmurko177/bach-thesis">Bachelor Thesis Workspace</a></h3>
       <p>
         <a href="https://github.com/schmurko177/bach-thesis">
           <img src="https://img.shields.io/badge/PRIVATE-locked-111827?style=for-the-badge&labelColor=7c3aed" alt="Private">
@@ -101,7 +121,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>&#127941; 5. <a href="https://github.com/schmurko177/webtech-projects">WebTech Projects</a></h3>
+      <h3>&#127941; 6. <a href="https://github.com/schmurko177/webtech-projects">WebTech Projects</a></h3>
       <p>
         <a href="https://github.com/schmurko177/webtech-projects">
           <img src="https://img.shields.io/badge/PUBLIC-open-111827?style=for-the-badge&labelColor=16a34a" alt="Public">
@@ -120,7 +140,7 @@
       </details>
     </td>
     <td width="50%">
-      <h3>&#127941; 6. <a href="https://github.com/schmurko177/ai-algorithms-lab-portfolio">AI Algorithms Lab Portfolio</a></h3>
+      <h3>&#127941; 7. <a href="https://github.com/schmurko177/ai-algorithms-lab-portfolio">AI Algorithms Lab Portfolio</a></h3>
       <p>
         <a href="https://github.com/schmurko177/ai-algorithms-lab-portfolio">
           <img src="https://img.shields.io/badge/PUBLIC-open-111827?style=for-the-badge&labelColor=16a34a" alt="Public">
@@ -141,7 +161,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>&#127941; 7. <a href="https://github.com/schmurko177/ai-assisted-junit-testing">AI-Assisted JUnit Testing</a></h3>
+      <h3>&#127941; 8. <a href="https://github.com/schmurko177/ai-assisted-junit-testing">AI-Assisted JUnit Testing</a></h3>
       <p>
         <a href="https://github.com/schmurko177/ai-assisted-junit-testing">
           <img src="https://img.shields.io/badge/PUBLIC-open-111827?style=for-the-badge&labelColor=16a34a" alt="Public">
@@ -160,7 +180,7 @@
       </details>
     </td>
     <td width="50%">
-      <h3>&#127941; 8. <a href="https://github.com/schmurko177/nomad-system-design">Nomad System Design</a></h3>
+      <h3>&#127941; 9. <a href="https://github.com/schmurko177/nomad-system-design">Nomad System Design</a></h3>
       <p>
         <a href="https://github.com/schmurko177/nomad-system-design">
           <img src="https://img.shields.io/badge/PUBLIC-open-111827?style=for-the-badge&labelColor=16a34a" alt="Public">
@@ -181,7 +201,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3>&#127941; 9. <a href="https://github.com/schmurko177/bogatyr-game">Bogatyr Game</a></h3>
+      <h3>&#127941; 10. <a href="https://github.com/schmurko177/bogatyr-game">Bogatyr Game</a></h3>
       <p>
         <a href="https://github.com/schmurko177/bogatyr-game">
           <img src="https://img.shields.io/badge/PRIVATE-locked-111827?style=for-the-badge&labelColor=7c3aed" alt="Private">
@@ -199,7 +219,7 @@
       </details>
     </td>
     <td width="50%">
-      <h3>&#127941; 10. <a href="https://github.com/schmurko177/kuit-it-instruction">KUIT IT Instruction</a></h3>
+      <h3>&#127941; 11. <a href="https://github.com/schmurko177/kuit-it-instruction">KUIT IT Instruction</a></h3>
       <p>
         <a href="https://github.com/schmurko177/kuit-it-instruction">
           <img src="https://img.shields.io/badge/PUBLIC-open-111827?style=for-the-badge&labelColor=16a34a" alt="Public">
